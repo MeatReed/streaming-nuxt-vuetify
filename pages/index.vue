@@ -1,5 +1,5 @@
 <template>
-  <v-container>
+  <v-container fluid>
     <CarouselHome />
     <v-row class="mt-10">
       <v-col>

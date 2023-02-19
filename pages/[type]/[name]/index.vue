@@ -1,5 +1,5 @@
 <template>
-  <v-container>
+  <v-container fluid>
     <h1>name</h1>
     <v-row>
       <v-col cols="3">

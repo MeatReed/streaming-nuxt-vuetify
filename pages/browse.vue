@@ -1,5 +1,5 @@
 <template>
-  <v-container>
+  <v-container fluid>
     <v-row>
       <v-col cols="5">
         <h1 class="mb-10">Derniers épisodes</h1>
@@ -38,7 +38,7 @@
           scroll-strategy="close"
         >
           <v-card width="800">
-            <v-container>
+            <v-container fluid>
               <v-row>
                 <v-col>
                   <v-radio-group

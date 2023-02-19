@@ -1,6 +1,6 @@
 <template>
   <v-app-bar flat app>
-    <v-container class="fill-height d-flex align-center">
+    <v-container fluid class="fill-height d-flex align-center">
       <v-app-bar-title>Streaming Site</v-app-bar-title>
       <v-btn variant="text" class="mr-5">
           Naviguer
@@ -11,7 +11,7 @@
           scroll-strategy="close"
         >
           <v-card tile>
-            <v-container>
+            <v-container fluid>
               <v-row>
               <v-col>
                 <v-list>

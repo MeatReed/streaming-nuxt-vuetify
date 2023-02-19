@@ -1,5 +1,5 @@
 <template>
-  <v-container>
+  <v-container fluid>
     <v-calendar>
       <div class="text-center text-h2 mb-5">Agenda</div>
       <v-row>
